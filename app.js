@@ -53,7 +53,7 @@ const flujoPedido = addKeyword(['pedido', 'pedir']).addAnswer(
 )
 
 const conversacionPrincipal = addKeyword(['hola', 'ole', 'buenas'])
-  .addAnswer('Bienvenido al restaurante *La cuchara de palo 🙌*')
+  .addAnswer('Bienvenido al Craft 3D 🙌*')
   .addAnswer(
       `El menu del día es el siguiente`,
       null,
